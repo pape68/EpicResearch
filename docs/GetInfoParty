@@ -1,0 +1,10 @@
+# Get Info Party
+
+## Request
+| URL | Method |
+| - | - |
+| https://party-service-prod.ol.epicgames.com/party/api/v1/Fortnite/user/{accountId} | `GET` |
+
+
+## Parameters
+- `accountId`: Account ID
